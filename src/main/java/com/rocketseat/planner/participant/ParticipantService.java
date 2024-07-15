@@ -1,4 +1,4 @@
-package com.rocketseat.planner.participants;
+package com.rocketseat.planner.participant;
 
 import com.rocketseat.planner.trip.Trip;
 import org.springframework.beans.factory.annotation.Autowired;
